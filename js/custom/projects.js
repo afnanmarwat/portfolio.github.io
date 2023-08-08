@@ -130,6 +130,42 @@ let projects = [
     {
         "id": 11,
         "type": "Web",
+        "title": "Cure Traders",
+        "desc": `
+        During my time at BingTechs, I played a pivotal role in crafting a comprehensive web-based dashboard using PHP. This multifaceted project encompassed both frontend and backend work, underscoring my ability to seamlessly navigate both aspects of development.
+        <br><br>
+        This dashboard, conceived collaboratively, serves as a central control hub for overseeing various functions within a medical inventory. It adeptly handles diverse tasks, including consignment management and branch administration. With distinctive user roles, such as super admin, branch admin, and user, the system ensures customized access and heightened security.
+        `,
+        "img": "images/projects/web/cure_trader.png",
+        "url": ""
+    },
+    {
+        "id": 12,
+        "type": "Web",
+        "title": "JaishuGems",
+        "desc": `
+        During my tenure at BingTechs, I made significant contributions to the development of an e-commerce platform focused on selling gems. My primary focus was on the backend, where I played a crucial role in shaping the website's functionality and performance.
+        <br><br>
+        This e-commerce website, a collaborative effort, provides a seamless platform for customers to explore and purchase gems online. As a backend specialist, I intricately designed and implemented the database architecture and inventory management functionalities. The result is a reliable and efficient system that ensures smooth transactions and optimal user experiences.
+        <br><br>
+        My work on this project exemplifies my proficiency in backend development, my ability to collaborate within a team, and my dedication to delivering a high-quality e-commerce solution. The gems website is a testament to the harmonious blend of technology and business, showcasing the impact of my contributions during my tenure with BingTechs.
+        `,
+        "img": "images/projects/web/jaishu.png",
+        "url": ""
+    },
+    {
+        "id": 13,
+        "type": "Web",
+        "title": "Brenz Travels",
+        "desc": `
+        During my engagement with BingTechs, I made substantial contributions to the development of a versatile travel website tailored for booking tickets and related services. My primary focus was on backend development, where I played a pivotal role in shaping the website's core functionality.
+        `,
+        "img": "images/projects/web/brenz.png",
+        "url": ""
+    },
+    {
+        "id": 14,
+        "type": "Web",
         "title": "Cipher",
         "desc": `
         Cipher is a versatile web-based application designed to provide secure encryption and decryption functionality for both text and images. With Cipher, users can safeguard their sensitive data and communicate securely.
@@ -140,7 +176,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 12,
+        "id": 15,
         "type": "Web",
         "title": "Password Generator",
         "desc": `
@@ -152,7 +188,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 13,
+        "id": 16,
         "type": "Web",
         "title": "PDF Merger",
         "desc": `
@@ -164,7 +200,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 14,
+        "id": 17,
         "type": "Web",
         "title": "Chat App",
         "desc": `
@@ -174,7 +210,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 15,
+        "id": 18,
         "type": "Web",
         "title": "Color",
         "desc": `
@@ -186,7 +222,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 16,
+        "id": 19,
         "type": "Design",
         "title": "Colorization",
         "desc": ``,
@@ -194,7 +230,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 17,
+        "id": 21,
         "type": "Design",
         "title": "Restoration",
         "desc": ``,
@@ -202,7 +238,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 18,
+        "id": 22,
         "type": "Design",
         "title": "Tracing",
         "desc": ``,
@@ -210,7 +246,7 @@ let projects = [
         "url": ""
     },
     {
-        "id": 19,
+        "id": 23,
         "type": "Other",
         "title": "Flutter Package - Responsive Size Widget",
         "desc": `
@@ -220,7 +256,7 @@ let projects = [
         "url": "https://pub.dev/packages/responsive_size_widget"
     },
     {
-        "id": 20,
+        "id": 24,
         "type": "Other",
         "title": "Bulk Rename Desktop Utility",
         "desc": `
