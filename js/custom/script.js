@@ -31,7 +31,7 @@ for(project of projects){
             :
             `<a href="#popup-${project['id']}" class="has-popup-media">`
         }
-            <img src="${project['img']}" alt="project image for ${project['title']}" />
+            <img src="${project['img']}" alt="project image for ${project['title']}" loading="lazy">
             <span class="info">
                 <span class="centrize full-width">
                     <span class="vertical-center">
@@ -57,7 +57,7 @@ for(project of projects){
         `<div id="popup-${project['id']}" class="popup-box mfp-fade mfp-hide">
         <div class="content">
             <div class="image">
-                <img src="${project['img']}" alt="project image for ${project['title']}">
+                <img src="${project['img']}" alt="project image for ${project['title']}" loading="lazy">
             </div>
             <div class="desc">
                 <div class="category">${project['type']}</div>
