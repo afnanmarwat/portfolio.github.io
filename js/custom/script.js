@@ -64,10 +64,9 @@ for(project of projects){
                 <h4>${project['title']}</h4>
                 <p> ${project['desc']} </p>
                 ${
-                    project['type'].toLowerCase() == 'other'
-                    ?
+                   
                     `<a target="_blank" href="${project['url']}" class="btn"> <span class="animated-button"> <span> View Project </span> </span> <i class="icon fas fa-chevron-right"> </i> </a>`
-                    : ''
+                    
                 }
                 </div>
             </div>
