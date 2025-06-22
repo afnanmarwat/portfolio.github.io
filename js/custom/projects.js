@@ -174,7 +174,7 @@ Led comprehensive development across multiple modules of QueryQ, implementing mo
         "title": "Travelsite",
         "desc": `
           <br><br>
-        •Developed a responsive and user-friendly frontend for PHPTravels, a comprehensive travel booking platform, using Next.js..
+        •Developed a responsive and user-friendly frontend for PHPTravels.com, a comprehensive travel booking platform, using Next.js..
         <br><br>
         •Implemented server-side rendering (SSR) and static site generation (SSG) to optimize performance and SEO.
         <br><br>
@@ -198,7 +198,7 @@ Led comprehensive development across multiple modules of QueryQ, implementing mo
         "url": "https://afnan-travel-booking-app.vercel.app/"
     },
     {
-        "id": 13,
+        "id": 14,
         "type": "Web",
         "title": "Order System",
         "desc": `
@@ -221,7 +221,7 @@ Led comprehensive development across multiple modules of QueryQ, implementing mo
         "url": "https://afnan-ordersystem.vercel.app/"
     },
     {
-        "id": 14,
+        "id": 15,
         "type": "Web",
         "title": "OrderPulse",
         "desc": `
@@ -233,7 +233,7 @@ Led comprehensive development across multiple modules of QueryQ, implementing mo
         "url": ""
     },
     {
-        "id": 15,
+        "id": 16,
         "type": "Web",
         "title": "Chat App Backend",
         "desc": `
@@ -245,7 +245,7 @@ Led comprehensive development across multiple modules of QueryQ, implementing mo
         "url": "https://github.com/afnanmarwat/chatApp.git"
     },
     {
-        "id": 16,
+        "id": 17,
         "type": "Web",
         "title": "Real Estate",
         "desc": `
