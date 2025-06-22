@@ -62,12 +62,13 @@ for(project of projects){
             <div class="desc">
                 <div class="category">${project['type']}</div>
                 <h4>${project['title']}</h4>
-                <p> ${project['desc']} </p>
-                ${
+                 ${
                    
                     `<a target="_blank" href="${project['url']}" class="btn"> <span class="animated-button"> <span> View Project </span> </span> <i class="icon fas fa-chevron-right"> </i> </a>`
                     
                 }
+                <p> ${project['desc']} </p>
+               
                 </div>
             </div>
         </div>`
